@@ -2,6 +2,6 @@
   "apiHost": "bustime-classic.mta.info",
   "alertsURL": "https://www.mta.info/alerts",
   "newsURL": "https://www.mta.info/press-release",
-  "dbVersion": 0,
-  "dbURL": ""
+  "dbVersion": 1,
+  "dbURL": "https://github.com/transitwaycom/nycbus-config/raw/8a897327e703c9ae26991a3737c3892944b49ffb/Search_downloaded.db"
 }
