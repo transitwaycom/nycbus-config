@@ -1,5 +1,5 @@
 {
-  "apiHost": "bustime-classic.mta.info",
+  "apiHost": "bustime-classic.mta,
   "alertsURL": "https://www.mta.info/alerts",
   "newsURL": "https://www.mta.info/press-release",
   "dbVersion": 1,
